@@ -1,0 +1,8 @@
+{
+  "name": "Remix Emergency Road Planner - DSA Hackathon (Java)",
+  "description": "High-performance Data Structures \u0026 Algorithms emergency road planning system featuring dynamic graph routing, Dijkstra min-heap, Kruskal MST, Max-Flow evacuation, and complete Java reference implementation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
